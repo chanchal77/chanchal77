@@ -9,7 +9,7 @@
 
   <h3> Things I'm good at </h3>
 
-- **Domain** : Machine Learning, Data Science, Data Analysis,Data Visualization
+- **Domain** : Machine Learning,  Data Science,  Data Analysis,  Data Visualization
 
 - **Languages** : Python, SQL, HTML, CSS, Php.
 
