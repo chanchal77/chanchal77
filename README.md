@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chanchal Bendkule</h1>
+<h1 align="center">Hi There</h1>
 <h3 align="center"> Ability to work and learn with a range of data environments.      
 </h3>
 
