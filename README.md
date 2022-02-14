@@ -1,5 +1,6 @@
  
-![myimage](https://user-images.githubusercontent.com/54575201/153905426-d67e6fd3-429c-48b8-9713-eddd43f4c502.gif)
+![image](https://user-images.githubusercontent.com/54575201/153906055-6cabd9b0-8302-4875-9772-d4df6eaf6fac.gif)
+
 
 
 <h1 align="center">Hi There</h1>
