@@ -8,8 +8,10 @@
 
 
 
-   <h3> Know about my experiences </h3> In the past, I have worked with VSYS Technologies as Web Devloper intern.    
-    I have also worked as a Back Office Executive at Bell finvest Ind Ltd.
+   <h3> Know about my experiences </h3> 
+   
+   - In the past, I have worked with VSYS Technologies as Web Devloper intern.       
+   - I have also worked as a Back Office Executive at Bell finvest Ind Ltd.
 
   <h3> Things I'm good at </h3>
 
