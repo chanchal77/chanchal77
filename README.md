@@ -1,3 +1,5 @@
+ ![image](https://user-images.githubusercontent.com/54575201/153901990-958836ec-9027-414c-91d9-97ae6b1019eb.gif)
+
 <h1 align="center">Hi There</h1>
 <h3 align="center"> Ability to work and learn with a range of data environments.      
 </h3>
