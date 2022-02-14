@@ -1,9 +1,8 @@
- 
+### Hi There 👋 
+
 ![image](https://user-images.githubusercontent.com/54575201/153906055-6cabd9b0-8302-4875-9772-d4df6eaf6fac.gif)
 
 
-
-<h1 align="center">Hi There</h1>
 <h3 align="center"> Ability to work and learn with a range of data environments.      
 </h3>
 
