@@ -19,7 +19,7 @@
 
 - **Languages** : Python, SQL, HTML, CSS, Php.
 
-- **Libraries & Tools** : NumPy, Pandas, Scikit-Learn, Matplotlib, Opencv, Keras.
+- **Libraries & Tools** : NumPy, Pandas, Scikit-Learn, Matplotlib, Opencv, Keras, tenserflow.
 
 - **How to reach me** :  **chanchalbendkule7@gmail.com**
   
